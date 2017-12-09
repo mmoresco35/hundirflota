@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Hundir La Flota</string>
+    <string name="barcos">Barcos</string>
+    <string name="instrucciones">Instrucciones</string>
+    <string name="configuracion">Configura el juego</string>
+    <string name="comenzar_juego">Comenzar juego</string>
+    <string name="principiante">Nevel Principiante</string>
+    <string name="intermedio">Nivel Amateur</string>
+    <string name="avanzado">Nivel Avanzado</string>
+    <string name="titulo_configuracion">Selecciona dificultad</string>
+    <string name="boton_volver">Volver</string>
+    <string name="agua_1">agua, tienes </string>
+    <string name="agua_2"> intentos mas</string>
+    <string name="hundido_1">Hundido, quedan </string>
+    <string name="hundido_2">" barcos"</string>
+    <string name="tocado">Tocado!!</string>
+    <string name="casillalejos">Pulse largo una casilla junto a la ultima que ha pulsado largo</string>
+    <string name="perder">Mala suerte, Has perdido..... pulsa Comenzar o selecciona otro nivel de dificultad</string>
+    <string name="ganar">Ganaste!!! no quedan barcos en el mar</string>
+    <string name="Instrucciones_descripcion">Este es un juego de hundir la flota algo particular\n
+        para configurar el nivel pulsa "Configura el juego"\n
+        para seleccionar los barcos con los que jugar pulsa en el barco de la parte superior\n
+        Para jugar en el menu pulsa "Comenzar juego"\n
+        \n
+        Una vez en la partida pulsa las casillas para descubrir su contenido.\n
+        \n
+        Si haces pulsacion corta se descubrira la casilla, pero cuidado, si estas buscando un barco de mas de una casilla perderas.\n
+        \n
+        Si haces pulsacion larga se  descubrira la casilla.</string>
+</resources>
